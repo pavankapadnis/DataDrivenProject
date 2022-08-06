@@ -1,0 +1,13 @@
+com\dataprovider\DataGet.class
+com\myframework\mytest\ReadObjectRepository.class
+com\myframework\pageobject\Assignment.class
+com\myframework\pageobject\DragAndDrop.class
+com\myframework\mytest\Base.class
+com\myframework\mytest\ReadExcelSheet.class
+com\myframework\pageobject\DropDown.class
+RunneClass\RunnerTest.class
+com\myframework\mytest\AsterDemo.class
+com\myframework\mytest\NormalDragDrop.class
+com\myframework\pageobject\SimpleAlert.class
+com\dataprovider\DataProviderDemo.class
+com\myframework\pageobject\Homepage.class
